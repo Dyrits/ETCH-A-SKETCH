@@ -3,7 +3,7 @@
 ## More about this project
 
 ### Related course
-THE ODIN PROJECT | WEB DEVELOPMENT 101: JavaScript Basics 
+THE ODIN PROJECT | WEB DEVELOPMENT 101: JavaScript Basics   
 [Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project)
 
 ### Technologies | Libraries | Frameworks | Tools  
