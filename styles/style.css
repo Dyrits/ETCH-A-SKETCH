@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Barrio&display=swap");
+
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Barrio', cursive;
+  font-size: 20px;
+  font-weight: 800;
+  color: #1e0a32;
+  text-shadow: -1px 0 #FFF, 0 1px #FFF, 1px 0 #FFF, 0 -1px #FFF;
+  background-image: url("https://images.unsplash.com/photo-1554272014-cb72a69172e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header {text-align: center;}
+
+#grid {
+  width: 700px;
+  height: 700px;
+  border: 2px double #1e0a32;
+  background-color: #FFF;
+  display: -ms-grid;
+  display: grid;
+  margin: 0 auto;
+}
+
+#settings {
+  width: 720px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 10px auto;
+}
+
+#color-picker {
+  border-radius: 50%;
+  background-color: #FFF;
+  border: 1px solid rgba(30, 10, 50, 0.4);
+  padding: 10px;
+  height: 40px;
+  width: 40px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+#size {
+  font-family: 'Barrio', cursive;
+  font-size: 20px;
+  border-radius: 10px;
+  font-weight: 800;
+  color: #1e0a32;
+  cursor: pointer;
+}
+
+#size:hover {
+  background: #1e0a32;
+  color: #FFF;
+}
+
+.cell {
+  margin: 0;
+  padding: 0;
+}
+
+.cell--border {border: 1px solid rgba(0, 0, 0, 0.4);}
+
+.black-background {background-color: #000;}

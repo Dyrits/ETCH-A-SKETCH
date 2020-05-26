@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Etch-a-Sketch</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Etch-a-Sketch</h1>
+    <label for="color-picker">Pick your poison</label><br>
+    <div id="color">
+      <input type="color" id="color-picker" class="field-radio">
+      <span id="color-value"></span>
+    </div>
+  </header>
+  <main>
+      <section id="grid"></section>
+      <section id="settings">
+        <label for="random">Random</label>
+        <input type="checkbox" name="random" id="random"><br>
+        <label for="border">Border</label>
+        <input type="checkbox" name="border" id="border"><br>
+        <button id="size">Clear and/or resize</button>
+      </section>
+  </main>
+    <script src="scripts/script.js"></script>
+</body>
+
+</html>
