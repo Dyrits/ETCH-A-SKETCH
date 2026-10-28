@@ -1,28 +1,31 @@
-# Etch-a-Sketch
+# ETCH-A-SKETCH
 
-## More about this project
+A browser Etch-a-Sketch drawing toy, built with HTML, CSS and JavaScript.
 
-### Related course
-THE ODIN PROJECT | WEB DEVELOPMENT 101: JavaScript Basics   
-[Project: Etch-a-Sketch](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project)
+## About The Project
 
-### Technologies | Libraries | Frameworks | Tools  
+Built as the Etch-a-Sketch project of The Odin Project's Web Development 101 (JavaScript Basics) course. Freely made from scratch following global instructions.
+
+A live version is available on [CodePen](https://codepen.io/Dyrits/full/OJyzQYB).
+
+### Status
+
+Completed.
+
+### Built With
+
 - HTML5
 - CSS3
 - JavaScript
 
-### Details | Comments
-- This project has been freely made from scratch following global instructions.
+## Getting Started
 
-### CodePen
-You can find this project on CodePen.  
-URL: https://codepen.io/Dyrits/full/OJyzQYB
+Open `index.html` in a browser.
 
-### Status
-Completed
+## License
 
-#### Last update
-05/05/2020
+No license file is present in this repository.
 
-#### Last update (README.md)
-26/05/2020
+## Contact
+
+Dyrits - https://github.com/Dyrits
